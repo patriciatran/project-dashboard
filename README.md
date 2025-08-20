@@ -12,6 +12,6 @@ The data is private, but here is a preview of its functionality:
 
 ![](dashboard-example.png)
 
-I've also included a subset of the data for the `projects.tsv` file so anyone can test the dashboard.
+(**to do**) I've also included a subset of the data for the `projects.tsv` file so anyone can test the dashboard.
 
 The \`projects.tsv\` file should have one consultation (entry) per row and contain at least the columns : Date (mdy), College (CALS or Other), Department, Lab (PI name), Name (name of the person seeking consultation).
